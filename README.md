@@ -22,7 +22,8 @@ Features
 How to Run
 1. Clone the Repository
 git clone [https://github.com/Tethi04/Pandas-Data-Analysis/tree/main]
-[]
+
+[https://tethi04.github.io/Pandas-Data-Analysis/]
 
 cd Pandas-Data-Analysis
 
